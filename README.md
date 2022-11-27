@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Said Mirzayev
 
-### 👩🏻‍💻 &nbsp;About Me
+### &nbsp;About Me
 
 - 🔭 I’m currently learning mobile programming 😋
 - 👯 I’m looking to collaborate with other Flutter and Mobile Developers 👩🏻‍💻
