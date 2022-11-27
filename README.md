@@ -3,7 +3,7 @@
 ### &nbsp;About Me
 
 - 🔭 I’m currently learning mobile programming 😋
-- 👯 I’m looking to collaborate with other Flutter and Mobile Developers 👩🏻‍💻
+- 👯 I’m looking to collaborate with other Flutter and Mobile Developers 
 - 🤔 I’m looking for help with mobile programming 🥰
 - 🥅 2024 Goals: Developing an app to be heard in the world 🌎 
 
